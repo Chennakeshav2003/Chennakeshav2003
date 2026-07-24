@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:chennakeshavkaneogu@gmail.com">
   <img align="left" alt="Gmail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm **Chennakeshav Kanepogu**, a Computer Science graduate from **Mumbai, India 🇮🇳**.
+Hi, I'm **Chennakeshav Kanepogu**, a Computer Science graduate Student from **Mumbai, India**.
 
 I'm passionate about **Data Analytics, Business Intelligence, and Data Visualization**. I enjoy transforming raw data into meaningful insights using **Python, SQL, Excel, and Power BI** while building dashboards that support better business decisions.
 
@@ -25,16 +25,13 @@ Besides analyzing data, I enjoy learning new technologies, contributing to proje
 
 ## 📌 Talking about Myself
 
-- 📊 Aspiring **Data Analyst**
-- 🎓 B.Tech in Computer Science Engineering
+- 🎓 B.Tech Computer Science Engineering Graduate 
 - 💼 Looking for **Data Analyst / Business Analyst** opportunities
 - 🏨 Built an end-to-end **Hotel Procurement Spend Analysis** project using **209K+ procurement transactions**
 - 📈 Developed interactive dashboards in **Power BI**
 - 🐍 Strong foundation in **Python**, **SQL**, **Excel**, and **Pandas**
-- 📚 Currently learning **Advanced SQL**, **Power BI DAX**, and **Data Engineering**
 - 🌱 Passionate about solving business problems with data
-- 💬 Ask me about **Python, SQL, Power BI, Excel, Data Cleaning, EDA, and Business Analytics**
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **chennakeshavkanepogu@gmail.com**
 
 &nbsp;
 
@@ -68,30 +65,6 @@ Besides analyzing data, I enjoy learning new technologies, contributing to proje
 - Seaborn
 - Scikit-Learn
 - Jupyter Notebook
-
----
-
-## 🚀 Featured Projects
-
-🏨 **Hotel Procurement Spend Analysis**
-
-> Procurement analytics project analyzing **209K+ transactions**, supplier performance, ABC classification, Pareto analysis, and spend optimization using Python, Excel, and Power BI.
-
-📈 **Customer Behavior Analysis**
-
-> End-to-end customer analytics project to uncover customer segments, purchasing trends, and business insights.
-
-📊 **S&P 500 Stock Analysis Dashboard**
-
-> Financial analytics dashboard with risk-return analysis, KPIs, and interactive visualizations.
-
-💳 **Credit Card Fraud Detection**
-
-> Machine learning project using SMOTE and classification models to detect fraudulent transactions.
-
-🍽 **Zomato Restaurant Data Analysis**
-
-> Exploratory Data Analysis project uncovering restaurant and customer insights through visualization.
 
 ---
 
