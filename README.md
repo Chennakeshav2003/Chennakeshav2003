@@ -18,7 +18,6 @@
 Hi, I'm **Chennakeshav Kanepogu**, a Computer Science Engineering graduate from **Mumbai, India 🇮🇳**.
 
 I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world problems with data.
-
 Outside of work, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
 
 
