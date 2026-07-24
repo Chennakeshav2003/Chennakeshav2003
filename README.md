@@ -18,9 +18,9 @@
 Hi, I'm **Chennakeshav Kanepogu**, a Computer Science Engineering graduate from Chhatrapati Shivaji Maharaj University (CSMU), **Mumbai, India 🇮🇳**.
 
 I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world problems with data.
-Outside of work, I enjoy music 🎧, reading 📚, and traveling 🌍.
 
-Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻
+Outside of work, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
+
 
 <img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
