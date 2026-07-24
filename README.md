@@ -1,212 +1,98 @@
-<h1 align="center">Hi 👋, I'm Chennakeshav Kanepogu</h1>
+<h1 align="left">Hey 👋, I'm Chennakeshav!</h1>
 
-<h3 align="center">
-Data Analyst | Python | SQL | Power BI | Excel
-</h3>
-
-<p align="center">
-Transforming raw data into actionable business insights through analytics, visualization, and storytelling.
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/chennakeshav-kanepogu-3b9084267/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chennakeshav-kanepogu-3b9084267/" target="_blank">
+  <img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img align="left" alt="Gmail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <a href="https://github.com/Chennakeshav2003">
-<img src="https://img.shields.io/github/followers/Chennakeshav2003?style=for-the-badge"/>
+  <img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Chennakeshav2003&style=for-the-badge"/>
-</p>
+<br />
+<br />
 
----
+Hi, I'm **Chennakeshav Kanepogu**, a Computer Science graduate from **Mumbai, India 🇮🇳**.
 
-## 👨‍💻 About Me
+I'm passionate about **Data Analytics, Business Intelligence, and Data Visualization**. I enjoy transforming raw data into meaningful insights using **Python, SQL, Excel, and Power BI** while building dashboards that support better business decisions.
 
-🎓 Computer Science Engineering Graduate
+Besides analyzing data, I enjoy learning new technologies, contributing to projects, exploring datasets, and continuously improving my analytical and problem-solving skills.
 
-📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
+<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💻 Skilled in Python, SQL, Power BI, Excel, and Machine Learning fundamentals
+## 📌 Talking about Myself
 
-📈 Experienced in building end-to-end analytics projects from data cleaning to interactive dashboards
+- 📊 Aspiring **Data Analyst**
+- 🎓 B.Tech in Computer Science Engineering
+- 💼 Looking for **Data Analyst / Business Analyst** opportunities
+- 🏨 Built an end-to-end **Hotel Procurement Spend Analysis** project using **209K+ procurement transactions**
+- 📈 Developed interactive dashboards in **Power BI**
+- 🐍 Strong foundation in **Python**, **SQL**, **Excel**, and **Pandas**
+- 📚 Currently learning **Advanced SQL**, **Power BI DAX**, and **Data Engineering**
+- 🌱 Passionate about solving business problems with data
+- 💬 Ask me about **Python, SQL, Power BI, Excel, Data Cleaning, EDA, and Business Analytics**
+- 📫 Reach me at **your_email@gmail.com**
 
-🌱 Currently learning:
-- Advanced SQL
-- Power BI (DAX & Power Query)
-- Data Engineering Fundamentals
+&nbsp;
 
-📍 Mumbai, India
-
-💼 Open to Data Analyst, Business Analyst & Business Intelligence roles
-
----
-
-## 🚀 Featured Projects
-
-### 🏨 Hotel Procurement Spend Analysis
-
-- Analyzed **209,000+ procurement transactions**
-- Built Executive Power BI Dashboard
-- ABC Inventory Classification
-- Pareto Analysis
-- Supplier Performance Analysis
-- Procurement Cost Optimization
-
-**Tech Stack:** Python • Pandas • Excel • Power BI
-
----
-
-### 🛒 Customer Behavior Analysis
-
-- Customer Segmentation
-- Sales Trend Analysis
-- Revenue Insights
-- Business Recommendations
-- Interactive Dashboard
-
-**Tech Stack:** Python • SQL • Power BI
-
----
-
-### 📈 S&P 500 Stock Analysis Dashboard
-
-- Financial Data Analysis
-- Risk vs Return Analysis
-- Interactive Dashboard
-- Feature Engineering
-- Streamlit Application
-
-**Tech Stack:** Python • Pandas • Streamlit
-
----
-
-### 💳 Credit Card Fraud Detection
-
-- Machine Learning Classification
-- SMOTE for Imbalanced Data
-- Model Evaluation
-- Fraud Detection Analytics
-
-**Tech Stack:** Python • Scikit-Learn
-
----
-
-### 🍽️ Zomato Restaurant Data Analysis
-
-- Exploratory Data Analysis
-- Customer Behaviour
-- Restaurant Performance
-- Data Visualization
-
-**Tech Stack:** Python • Pandas • Matplotlib • Seaborn
-
----
-
-# 🛠️ Tech Stack
-
-### Programming Languages
+## 🛠 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png">
+
 </p>
 
-### Data Analysis
+### 📊 Analytics & BI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
+- Power BI
+- Excel
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-
-### Business Intelligence
-
-- Power BI
-- Excel
-- Tableau
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
 - Jupyter Notebook
 
 ---
 
-# 📈 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
+🏨 **Hotel Procurement Spend Analysis**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chennakeshav2003&show_icons=true&theme=tokyonight"/>
+> Procurement analytics project analyzing **209K+ transactions**, supplier performance, ABC classification, Pareto analysis, and spend optimization using Python, Excel, and Power BI.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chennakeshav2003&layout=compact&theme=tokyonight"/>
+📈 **Customer Behavior Analysis**
 
-</p>
+> End-to-end customer analytics project to uncover customer segments, purchasing trends, and business insights.
 
-<p align="center">
+📊 **S&P 500 Stock Analysis Dashboard**
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chennakeshav2003&theme=tokyonight"/>
+> Financial analytics dashboard with risk-return analysis, KPIs, and interactive visualizations.
 
-</p>
+💳 **Credit Card Fraud Detection**
 
----
+> Machine learning project using SMOTE and classification models to detect fraudulent transactions.
 
-# 🏆 Certifications
+🍽 **Zomato Restaurant Data Analysis**
 
-- Google Cloud Skills Boost
-- Data Analytics Certifications
-- Power BI Certifications
-- Python Certifications
+> Exploratory Data Analysis project uncovering restaurant and customer insights through visualization.
 
 ---
 
-# 📚 Currently Learning
-
-- Advanced SQL Optimization
-- Power BI DAX
-- Data Warehousing
-- ETL Pipelines
-- Data Engineering Concepts
-
----
-
-# 🎯 Career Objective
-
-I aspire to leverage data analytics, business intelligence, and visualization techniques to solve real-world business problems and support data-driven decision-making. I am continuously expanding my skills by building practical analytics projects and exploring modern data technologies.
-
----
-
-# 📫 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/chennakeshav-kanepogu-3b9084267/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-If you like my projects, consider giving them a ⭐
-</p>
+⭐️ **Thanks for visiting my profile!**
