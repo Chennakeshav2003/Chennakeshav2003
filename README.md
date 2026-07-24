@@ -26,7 +26,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 ## 📌 Talking about Myself
 
-- 🎓 B.Tech Computer Science Engineering Graduate 
+- 🎓 B.Tech Computer Science Engineering Graduate from CSMU
 - 💼 Looking for **Data Analyst / Business Analyst** opportunities
 - 🏨 Built an end-to-end **Hotel Procurement Spend Analysis** project using **209K+ procurement transactions**
 - 📈 Developed interactive dashboards in **Power BI**
