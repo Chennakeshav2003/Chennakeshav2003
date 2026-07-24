@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm **Chennakeshav Kanepogu**, a Computer Science graduate Student from CSMU from **Mumbai, India**.
+Hi, I'm **Chennakeshav Kanepogu**, a Computer Science Engineering graduate from Chhatrapati Shivaji Maharaj University (CSMU), **Mumbai, India 🇮🇳**.
 
 I'm passionate about **Data Analytics, Business Intelligence, and Data Visualization**. I enjoy transforming raw data into meaningful insights using **Python, SQL, Excel, and Power BI** while building dashboards that support better business decisions.
 
