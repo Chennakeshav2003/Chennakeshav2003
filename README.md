@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Chennakeshav!</h1>
+<h1 align="left">Hey 👋, I'm Keshav!</h1>
 
 <a href="https://www.linkedin.com/in/chennakeshav-kanepogu-3b9084267/" target="_blank">
   <img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
