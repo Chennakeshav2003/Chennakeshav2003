@@ -31,8 +31,6 @@ Outside of work, I enjoy listening music 🎧, reading book 📚, and traveling 
 - 📈 Developed interactive dashboards in **Power BI**
 - 🐍 Strong foundation in **Python**, **SQL**, **Excel**, and **Pandas**
 - 🌱 Passionate about solving business problems with data
--
-- 
 - 📫 Reach me at **chennakeshavkanepogu@gmail.com**
 
 &nbsp;
