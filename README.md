@@ -28,9 +28,6 @@ I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world pr
 - 🎓 B.Tech Computer Science Engineering Graduate from CSMU
 - 💼 Looking for **Data Analyst / Business Analyst** opportunities
 - 🏨 Built an end-to-end **Hotel Procurement Spend Analysis** project using **209K+ procurement transactions**
-- 📈 Developed interactive dashboards in **Power BI**
-- 🐍 Strong foundation in **Python**, **SQL**, **Excel**, and **Pandas**
-- 🌱 Passionate about solving business problems with data
 - 📫 Reach me at **chennakeshavkanepogu@gmail.com**
 
 &nbsp;
@@ -54,17 +51,6 @@ I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world pr
 <img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png">
 
 </p>
-
-### 📊 Analytics & BI
-
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Jupyter Notebook
 
 ---
 
