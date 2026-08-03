@@ -68,4 +68,4 @@ I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world pr
 
 ---
 
-⭐️ **You can find more about me in my portfolio website here:** [Chennakeshav_Kanepogu](https://chennakeshav2003.github.io/)
+⭐️ **You can find more about me in my portfolio website here:** [Chennakeshav_Kanepogu](https://chennakeshav2003.github.io/portfolio/)
