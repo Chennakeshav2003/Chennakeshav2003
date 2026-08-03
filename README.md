@@ -23,7 +23,7 @@ I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world pr
 
 <img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 📌 Talking about Myself
+**📌 Talking about Myself**
 
 - 🎓 B.Tech Computer Science Engineering Graduate from CSMU
 - 💼 Looking for **Data Analyst / Business Analyst** opportunities
