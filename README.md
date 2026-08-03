@@ -25,9 +25,11 @@ I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world pr
 
 **📌 Talking about Myself**
 
-- 🎓 B.Tech Computer Science Engineering Graduate from CSMU
+- 🎓 B.Tech Computer Science Engineering Graduate from CSMU, Navi mumbai.
 - 💼 Looking for **Data Analyst / Business Analyst** opportunities
-- 🏨 Built an end-to-end **Hotel Procurement Spend Analysis** project using **209K+ procurement transactions**
+- 🏨 Built analytics dashboards for domains such as finance, hospitality, retail, and procurement
+- 📈 Achieved proficiency in Python, SQL, Power BI, Tableau, and Excel through hands-on projects and internships.
+- 🚀 Open to collaborations and analytics projects.
 - 📫 Reach me at **chennakeshavkanepogu@gmail.com**
 
 &nbsp;
@@ -52,5 +54,5 @@ I enjoy working with **Python, SQL, Excel, and Power BI** to solve real-world pr
 
 </p>
 
-
+---
 ⭐️ **You can find more about me in my portfolio website here:** [Chennakeshav_Kanepogu](https://chennakeshav2003.github.io/portfolio/)
